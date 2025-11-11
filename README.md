@@ -33,3 +33,13 @@ git clone <repo-url>
 cd <project-folder>
 npm install
 npx expo start
+```
+
+## Screenshots
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="screenshots/airsense-gdansk-mobile-1.jpg" width="200" />
+  <img src="screenshots/airsense-gdansk-mobile-2.jpg" width="200" />
+  <img src="screenshots/airsense-gdansk-mobile-3.jpg" width="200" />
+  <img src="screenshots/airsense-gdansk-mobile-4.jpg" width="200" />
+</div>
